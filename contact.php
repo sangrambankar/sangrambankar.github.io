@@ -3,8 +3,8 @@
 /**
  * configure here
  */
-$from = 'IT WORKER <it@domain.com>';
-$sendTo = 'IT WORKER <it@domain.com>';
+$from = 'sangram.a.bankar@gmail.com';
+$sendTo = 'sangram.a.bankar@gmail.com';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
 $htmlHeader = '';
